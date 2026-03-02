@@ -46,6 +46,9 @@ _start:
     //   - SUBS Xd, Xn, Xm
     //   - B.NE label
 
+
+//mjnmjlnmlj
+
 sum_loop:
     // TODO #1: Add X0 to the running sum in X4
     // Syntax: ADD Xd, Xn, Xm
